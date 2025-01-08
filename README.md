@@ -26,4 +26,4 @@ Run the main.py file
 Enter your Prompt of what type of 3d model you want to generate. It will take around 1 min to generate the model. 
 After the process is completed it will save the .obj file and a video preveiw of the model in the same file. It will also paly the preview video automatically.
 
-<br> <h4>Developer - Aayush Prabhkar</h4>
+<br> <h4>Developer - Aniket singh </h4>
